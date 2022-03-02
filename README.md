@@ -23,6 +23,8 @@
 
 Xpense - This project is an expense tracker created using react and redux. Through this project I trained my skills with organization and structure of folders and was able to improve my knowledge about react and redux.
 
+https://expensereactredux.netlify.app/
+
 ---
 
 
@@ -30,7 +32,9 @@ Xpense - This project is an expense tracker created using react and redux. Throu
 
 The application:
 
- <img alt="Made by brunochaves77" src="">
+ <img alt="Made by brunochaves77" src="https://github.com/brunochaves77/expensetracker/blob/main/Screenshot%201.png">
+ 
+ <img alt="Made by brunochaves77" src="https://github.com/brunochaves77/expensetracker/blob/main/Screenshot%202.png">
 
 ---
 
